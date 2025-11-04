@@ -1,0 +1,12 @@
+torch
+transformers
+gradio
+pandas
+numpy
+scikit-learn
+regex
+datasets
+sentencepiece
+fasttext
+tqdm
+unicodedata2
